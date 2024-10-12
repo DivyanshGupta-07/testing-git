@@ -7,6 +7,7 @@ const App = () => {
       <h1>is</h1>
       <h1>Divyansh</h1>
       <h1>Gupta</h1>
+      <h1>hello all of you</h1>
     </div>
   );
 };
