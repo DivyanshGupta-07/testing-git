@@ -10,6 +10,8 @@ const App = () => {
       <h1>hello all of you</h1>
       <h1>hello all of you</h1>
       <h1>hello all of you</h1>
+      <h1>hello all of you</h1>
+      <h1>hello all of you</h1>
     </div>
   );
 };
