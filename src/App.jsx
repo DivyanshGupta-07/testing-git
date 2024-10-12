@@ -6,6 +6,7 @@ const App = () => {
       <h1>name</h1>
       <h1>is</h1>
       <h1>Divyansh</h1>
+      <h1>Gupta</h1>
     </div>
   );
 };
